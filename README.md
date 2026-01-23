@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Piyumal</h1>
-<h3 align="center">I am currently pursuing a bachelor’s degree in electrical and Electronic Engineering.</h3>
+<h3 align="center">I am currently pursuing a Bachelor’s Degree in Electrical and Electronic Engineering.</h3>
 
 - 🌱 I’m currently learning **Electrical and Electronic Engineering**
-- 🔭I am currently working on research related to  **A generative AI framework for End-to-End Semantic Communication.**
+- 🔭I am currently working on research related to  **A Generative AI Framework for End-to-End Semantic Communication.**
 
 
 
