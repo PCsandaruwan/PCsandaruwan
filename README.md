@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyumal</h1>
 <h3 align="center">I am currently pursuing a bachelor’s degree in electrical and Electronic Engineering.</h3>
 
-- 🔭 I’m currently do the research about **A generative AI framework for end to end semantic communication**
+- 🔭 I’m currently do the research about **AI framework end to end semantic communication**
 
 - 🌱 I’m currently learning **Electrical and Electronic Engineering**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/piyumal sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyumal sandaruwan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/piyumalsandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyumalsandaruwan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
