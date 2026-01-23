@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Piyumal</h1>
 <h3 align="center">I am currently pursuing a bachelor’s degree in electrical and Electronic Engineering.</h3>
 
-- 🔭 I’m currently do the research about **AI framework end to end semantic communication**
-
 - 🌱 I’m currently learning **Electrical and Electronic Engineering**
+- 🔭I am currently working on research related to  **A generative AI framework for End-to-End Semantic Communication.**
 
-- 🤝 I’m looking for help with **Internship opportunities in telecommunications, circuit design, and electronics manufacturing**
+
+
+- 🤝 I am seeking internship opportunities in the fields of **Telecommunications,Circuit design and Electronics Manufacturing.**
 
 
 ---
