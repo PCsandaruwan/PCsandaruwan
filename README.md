@@ -6,7 +6,7 @@
 
 
 
-- 🤝 I am seeking internship opportunities in the fields of **Telecommunications,Circuit design and Electronics Manufacturing.**
+- 🤝 I am currently seeking internship opportunities in Telecommunications, Circuit Design, and Embedded Systems, where I can apply my technical knowledge and further develop my practical engineering skills.
 
 
 ---
